@@ -256,7 +256,7 @@ export default function ProjectsFit() {
   <div className="fixed inset-0 bg-black/80 flex items-center justify-center z-50 px-6">
 
     <div className="bg-white/[0.05] backdrop-blur-2xl border border-white/20 
-                    w-full max-w-6xl h-[80vh] rounded-2xl overflow-hidden relative grid md:grid-cols-2">
+                    w-full max-w-6xl h-[80vh] max-h-[90vh] rounded-2xl overflow-y-auto relative grid md:grid-cols-2">
 
       {/* 🔥 CLOSE */}
       <button
