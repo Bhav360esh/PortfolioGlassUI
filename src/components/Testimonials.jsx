@@ -5,31 +5,31 @@ const testimonials = [
     name: "Achyut Daga",
     role: "Marketing Manager, The Moms Co.",
     image: "https://randomuser.me/api/portraits/men/45.jpg",
-    text: "Anjali played a key role in executing high-impact campaigns at The Moms Co. His ability to combine content strategy with performance marketing resulted in strong engagement and measurable growth. Highly reliable and proactive in fast-paced environments.",
+    text: "Anjali played a key role in executing high-impact campaigns at The Moms Co. Her ability to combine content strategy with performance marketing resulted in strong engagement and measurable growth. Highly reliable and proactive in fast-paced environments.",
   },
   {
     name: "Priyanka",
     role: "Brand Team, Jagran New Media",
     image: "https://randomuser.me/api/portraits/women/68.jpg",
-    text: "Working with Anjali during his tenure at Jagran was a great experience. He contributed effectively to campaign planning, brand collaborations, and social media execution. His strategic thinking and adaptability stood out.",
+    text: "Working with Anjali during his tenure at Jagran was a great experience. She contributed effectively to campaign planning, brand collaborations, and social media execution. Her strategic thinking and adaptability stood out.",
   },
   {
     name: "Shruti",
     role: "Founder, Ksocial",
     image: "https://randomuser.me/api/portraits/women/32.jpg",
-    text: "Anjali demonstrated excellent skills in influencer marketing and content strategy. He understands digital ecosystems well and brings creative as well as analytical thinking to every project.",
+    text: "Anjali demonstrated excellent skills in influencer marketing and content strategy. She understands digital ecosystems well and brings creative as well as analytical thinking to every project.",
   },
   {
     name: "Priyanka",
     role: "Faculty, IIMC",
     image: "https://randomuser.me/api/portraits/women/50.jpg",
-    text: "Anjali has consistently shown strong research, communication, and analytical abilities. His work reflects a deep understanding of media, marketing, and audience behavior.",
+    text: "Anjali has consistently shown strong research, communication, and analytical abilities. Her work reflects a deep understanding of media, marketing, and audience behavior.",
   },
   {
-    name: "Digital Decoders Team",
-    role: "Event Organizers",
+    name: "Ideathon",
+    role: "Judges",
     image: "https://randomuser.me/api/portraits/men/60.jpg",
-    text: "Anjali delivered exceptional work during the event. His ability to manage content, coordinate execution, and ensure smooth delivery made a significant impact. A dependable and result-driven individual.",
+    text: "Anjali and her team delivered exceptional work during the event. Her ability to manage content, coordinate execution, and ensure smooth delivery made a significant impact. A dependable and result-driven individual.",
   },
 ];
 
