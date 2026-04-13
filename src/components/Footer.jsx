@@ -70,7 +70,7 @@ export default function Footer() {
             <h3 className="font-semibold mb-4 text-white">Contact</h3>
             <ul className="space-y-2 text-gray-400 text-sm">
               <li>+91 8527609180</li>
-              <li>work.anjalitripathi@email.com</li>
+              <li>work.anjalitripathi@gmail.com</li>
               <li>India</li>
               <li>Mon - Fri / 9am - 6pm</li>
             </ul>
