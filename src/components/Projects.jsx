@@ -6,7 +6,7 @@ import img5 from "../assets/5.png";
 import img6 from "../assets/6.png";
 import img7 from "../assets/7.png";
 import img8 from "../assets/8.png";
-import img9 from "../assets/ambul.png";
+import img9 from "../assets/ambulance.png";
 import img10 from "../assets/abp.png";
 import img11 from "../assets/DD.png";
 import img12 from "../assets/momsco.png";
