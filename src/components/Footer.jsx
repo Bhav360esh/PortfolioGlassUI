@@ -35,7 +35,7 @@ export default function Footer() {
           {/* LOGO + ABOUT */}
           <div>
             <h2 className="text-2xl font-bold text-orange mb-4">
-              Shruti
+              Anjali
             </h2>
             <p className="text-gray-400 text-sm leading-relaxed">
                Driving Growth with Strategic Marketing & Content Excellence
